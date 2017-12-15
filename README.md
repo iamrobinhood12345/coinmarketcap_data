@@ -21,4 +21,4 @@ symbol,ranking by market cap,name,market cap,price,circulating supply,volume,% 1
 
 
 
-Please feel free to fork. If you have any questions or want more information, please email me at bshields23@gmail.com.
+Please feel free to fork. If you have any questions or want more information, please email me at bshields23@gmail.com. Past performance is no guarantee of future returns!
