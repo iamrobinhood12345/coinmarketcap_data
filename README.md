@@ -8,6 +8,8 @@ Contents
 
 The folder crypt_data contains 26,320 csvs of data on the top cryptocurrencies on https://coinmarketcap.com/ by market cap worldwide. Data was collected every five minutes for three months.
 
+Filenames are represent the date and time at which the data was collected: ymd-hms. The data in cr_20170804-210505.csv was collected on August 4, 2017 at 21:05:05.
+
 The Data
 -------
 
