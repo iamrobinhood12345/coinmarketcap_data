@@ -18,3 +18,7 @@ The Data
 ### Columns
 
 symbol,ranking by market cap,name,market cap,price,circulating supply,volume,% 1h,% 24h,% 1wk
+
+
+
+Please feel free to fork. If you have any questions or want more information, please email me at bshields23@gmail.com.
