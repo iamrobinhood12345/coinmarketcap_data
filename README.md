@@ -1,13 +1,14 @@
-# coinmarketcap_data
-From August to November
-
-CoinMarketCap Data from August 4 to November 4, 2017
+CoinMarketCap Data
 =====================================
+
+From August 4 to November 4, 2017
 
 Contents
 ----------------
 
 The folder crypt_data contains 26,320 csvs of data on the top cryptocurrencies on https://coinmarketcap.com/ by market cap worldwide. Data was collected every five minutes for three months.
+
+
 
 Bitcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
@@ -18,27 +19,6 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
 [original whitepaper](https://bitcoincore.org/bitcoin.pdf).
-
-License
--------
-
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
-
-Development Process
--------------------
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
-
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #bitcoin-core-dev.
 
 Testing
 -------
